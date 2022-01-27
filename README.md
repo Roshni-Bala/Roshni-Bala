@@ -1,16 +1,11 @@
-### Hi there 👋
-
-<!--
-**Roshni-Bala/Roshni-Bala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hey, folks!
+<a href="#"><img src="https://komarev.com/ghpvc/?username=Roshni-Bala&style=flat&color=0077B5" height="20"/></a>
+- 😄 Pronouns: She/Her
+- 🔭 I’m a third year student at Anna University, Chennai
+- 🌱 I’m passionate about creating projects and learning tools that will help me create impactful projects
+- 💻 Always ready to brainstorm, learn and implement cool ideas!
+- 📫 Reach me here -> <a href="https://www.linkedin.com/in/roshni-balasubramanian/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25"/></a>
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Roshni-Bala&show_icons=true&count_private=true&theme=dark" height = "160"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roshni-Bala&show_icons=true&count_private=true&layout=compact&theme=dark" height = "160"></a>
+</p>

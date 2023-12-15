@@ -2,7 +2,7 @@
 ### Hey, folks!
 
 - 😄 Pronouns: She/Her
-- 🔭 I’m a student at Anna University, Chennai
+- 🔭 I’m a graduate student at Duke University's Fuqua School of Business
 - 🌱 I’m passionate about learning tools and skills that will help me create impactful projects.
 - 💻 Always ready to brainstorm, learn and implement cool ideas!
 - 📫 Reach out to me on LinkedIn! <br> <a href="https://www.linkedin.com/in/roshni-balasubramanian/"><br><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25"/></a>
